@@ -14,6 +14,10 @@
     "qld-maroon-palette",
     "qld-maroon-theme",
     "qld-default-palette",
-    "qld-default-theme"
+    "qld-default-theme",
+    "a01-alpha-palette",
+    "a01-alpha-theme",
+    "a01-beta-palette",
+    "a01-beta-theme"
   ]
 }
