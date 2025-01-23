@@ -62,10 +62,10 @@
   <color name="themeColorReservedSuccessLightest">#f0f9ec</color>
   <color name="themeColorReservedSuccessLighter">#e7f5df</color>
   <color name="themeColorReservedSuccessDarker">#004f00</color>
-  <color name="themeColorReservedAlertDefault">#7f00ff</color>
-  <color name="themeColorReservedAlertLightest">#f2e6ff</color>
-  <color name="themeColorReservedAlertLighter">#d9b3ff</color>
-  <color name="themeColorReservedAlertDarker">#4c0099</color>
+  <color name="themeColorReservedAlertDefault">#ffe500</color>
+  <color name="themeColorReservedAlertLightest">#fffdee</color>
+  <color name="themeColorReservedAlertLighter">#fffce3</color>
+  <color name="themeColorReservedAlertDarker">#705500</color>
   <color name="themeColorSyntaxBackground">#232323</color>
   <color name="themeColorSyntaxValues">#6bbe27</color>
   <color name="themeColorSyntaxElements">#a7e5ff</color>

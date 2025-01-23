@@ -912,51 +912,51 @@
     },
     "starYellow": {
       "25": {
-        "value": "#f2e6ff",
+        "value": "#FFFDEE",
         "type": "color"
       },
       "50": {
-        "value": "#d9b3ff",
+        "value": "#FFFCE3",
         "type": "color"
       },
       "100": {
-        "value": "#bf80ff",
+        "value": "#FEF8C6",
         "type": "color"
       },
       "200": {
-        "value": "#b266ff",
+        "value": "#FEF4A8",
         "type": "color"
       },
       "300": {
-        "value": "#a54dff",
+        "value": "#FFEF86",
         "type": "color"
       },
       "400": {
-        "value": "#9933ff",
+        "value": "#FFEA5D",
         "type": "color"
       },
       "500": {
-        "value": "#7f00ff",
+        "value": "#FFE500",
         "type": "color"
       },
       "600": {
-        "value": "#6600cc",
+        "value": "#CDB300",
         "type": "color"
       },
       "700": {
-        "value": "#5900b3",
+        "value": "#9D8200",
         "type": "color"
       },
       "800": {
-        "value": "#4c0099",
+        "value": "#705500",
         "type": "color"
       },
       "900": {
-        "value": "#400080",
+        "value": "#462900",
         "type": "color"
       },
       "950": {
-        "value": "#330066",
+        "value": "#1E0300",
         "type": "color"
       }
     },

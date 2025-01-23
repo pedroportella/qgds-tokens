@@ -61,10 +61,10 @@
   --theme-color-reserved-success-lightest: #f0f9ec;
   --theme-color-reserved-success-lighter: #e7f5df;
   --theme-color-reserved-success-darker: #004f00;
-  --theme-color-reserved-alert-default: #7f00ff;
-  --theme-color-reserved-alert-lightest: #f2e6ff;
-  --theme-color-reserved-alert-lighter: #d9b3ff;
-  --theme-color-reserved-alert-darker: #4c0099;
+  --theme-color-reserved-alert-default: #ffe500;
+  --theme-color-reserved-alert-lightest: #fffdee;
+  --theme-color-reserved-alert-lighter: #fffce3;
+  --theme-color-reserved-alert-darker: #705500;
   --theme-color-syntax-background: #232323;
   --theme-color-syntax-values: #b80b4d;
   --theme-color-syntax-elements: #a7e5ff;
