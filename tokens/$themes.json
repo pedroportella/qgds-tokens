@@ -77,6 +77,7 @@
       "card": "source",
       "qgds": "source",
       "typography": "source",
+      "custom-health": "source",
       "a01-alpha-theme": "enabled",
       "a01-alpha-palette": "enabled"
     },
@@ -91,6 +92,7 @@
       "card": "source",
       "qgds": "source",
       "typography": "source",
+      "custom-health": "source",
       "a01-beta-theme": "enabled",
       "a01-beta-palette": "enabled"
     },

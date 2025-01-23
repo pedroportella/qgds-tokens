@@ -3,6 +3,18 @@
  */
 
 :root {
+  --custom-health-color-eletric-purple-25: #f2e6ff;
+  --custom-health-color-eletric-purple-50: #d9b3ff;
+  --custom-health-color-eletric-purple-100: #bf80ff;
+  --custom-health-color-eletric-purple-200: #b266ff;
+  --custom-health-color-eletric-purple-300: #a54dff;
+  --custom-health-color-eletric-purple-400: #9933ff;
+  --custom-health-color-eletric-purple-500: #7f00ff;
+  --custom-health-color-eletric-purple-600: #6600cc;
+  --custom-health-color-eletric-purple-700: #5900b3;
+  --custom-health-color-eletric-purple-800: #4c0099;
+  --custom-health-color-eletric-purple-900: #400080;
+  --custom-health-color-eletric-purple-950: #330066;
   --theme-color-brand-first: #551a8b;
   --theme-color-brand-second: #011c2a;
   --theme-color-brand-third: #78ba00;
@@ -61,10 +73,10 @@
   --theme-color-reserved-success-lightest: #f0f9ec;
   --theme-color-reserved-success-lighter: #e7f5df;
   --theme-color-reserved-success-darker: #004f00;
-  --theme-color-reserved-alert-default: #ffe500;
-  --theme-color-reserved-alert-lightest: #fffdee;
-  --theme-color-reserved-alert-lighter: #fffce3;
-  --theme-color-reserved-alert-darker: #705500;
+  --theme-color-reserved-alert-default: #7f00ff;
+  --theme-color-reserved-alert-lightest: #f2e6ff;
+  --theme-color-reserved-alert-lighter: #d9b3ff;
+  --theme-color-reserved-alert-darker: #4c0099;
   --theme-color-syntax-background: #232323;
   --theme-color-syntax-values: #6bbe27;
   --theme-color-syntax-elements: #a7e5ff;

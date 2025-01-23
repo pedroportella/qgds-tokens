@@ -2,6 +2,18 @@
  * Do not edit directly, this file was auto-generated.
  */
 
+export const customHealthColorEletricPurple25 = "#f2e6ff";
+export const customHealthColorEletricPurple50 = "#d9b3ff";
+export const customHealthColorEletricPurple100 = "#bf80ff";
+export const customHealthColorEletricPurple200 = "#b266ff";
+export const customHealthColorEletricPurple300 = "#a54dff";
+export const customHealthColorEletricPurple400 = "#9933ff";
+export const customHealthColorEletricPurple500 = "#7f00ff";
+export const customHealthColorEletricPurple600 = "#6600cc";
+export const customHealthColorEletricPurple700 = "#5900b3";
+export const customHealthColorEletricPurple800 = "#4c0099";
+export const customHealthColorEletricPurple900 = "#400080";
+export const customHealthColorEletricPurple950 = "#330066";
 export const themeColorBrandFirst = "#551a8b";
 export const themeColorBrandSecond = "#011c2a";
 export const themeColorBrandThird = "#78ba00";
@@ -60,10 +72,10 @@ export const themeColorReservedSuccessDefault = "#6bbe27";
 export const themeColorReservedSuccessLightest = "#f0f9ec";
 export const themeColorReservedSuccessLighter = "#e7f5df";
 export const themeColorReservedSuccessDarker = "#004f00";
-export const themeColorReservedAlertDefault = "#ffe500";
-export const themeColorReservedAlertLightest = "#fffdee";
-export const themeColorReservedAlertLighter = "#fffce3";
-export const themeColorReservedAlertDarker = "#705500";
+export const themeColorReservedAlertDefault = "#7f00ff";
+export const themeColorReservedAlertLightest = "#f2e6ff";
+export const themeColorReservedAlertLighter = "#d9b3ff";
+export const themeColorReservedAlertDarker = "#4c0099";
 export const themeColorSyntaxBackground = "#232323";
 export const themeColorSyntaxValues = "#6bbe27";
 export const themeColorSyntaxElements = "#a7e5ff";

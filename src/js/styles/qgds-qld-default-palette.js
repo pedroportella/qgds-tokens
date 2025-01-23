@@ -5,7 +5,7 @@
 export const themeColorBrandFirst = "#09549f";
 export const themeColorBrandSecond = "#05325f";
 export const themeColorBrandThird = "#6bbe27";
-export const themeColorBrandFourth = "#ffe500";
+export const themeColorBrandFourth = "#7f00ff";
 export const themeColorBackgroundBright = "#ffffff";
 export const themeColorBackgroundTint = "#e7edf6";
 export const themeColorBackgroundAlt = "#eaeaea";
@@ -30,11 +30,11 @@ export const themeColorActionOnDarksPrimaryHoverColor = "#469800";
 export const themeColorActionOnDarksPrimaryHoverText = "#000043";
 export const themeColorActionOnDarksPrimaryActiveColor = "#469800";
 export const themeColorActionOnDarksPrimaryActiveText = "#000043";
-export const themeColorActionOnDarksSecondaryDefaultColor = "#ffe500";
+export const themeColorActionOnDarksSecondaryDefaultColor = "#7f00ff";
 export const themeColorActionOnDarksSecondaryDefaultText = "#ffffff";
-export const themeColorActionOnDarksSecondaryHoverColor = "#cdb300";
+export const themeColorActionOnDarksSecondaryHoverColor = "#6600cc";
 export const themeColorActionOnDarksSecondaryHoverText = "#ffffff";
-export const themeColorActionOnDarksSecondaryActiveColor = "#cdb300";
+export const themeColorActionOnDarksSecondaryActiveColor = "#6600cc";
 export const themeColorActionOnDarksSecondaryActiveText = "#ffffff";
 export const themeColorWordingOnLightsSiteTitleDefault = "#000043";
 export const themeColorWordingOnLightsSiteTitleVariant = "#09549f";
@@ -60,10 +60,10 @@ export const themeColorReservedSuccessDefault = "#6bbe27";
 export const themeColorReservedSuccessLightest = "#f0f9ec";
 export const themeColorReservedSuccessLighter = "#e7f5df";
 export const themeColorReservedSuccessDarker = "#004f00";
-export const themeColorReservedAlertDefault = "#ffe500";
-export const themeColorReservedAlertLightest = "#fffdee";
-export const themeColorReservedAlertLighter = "#fffce3";
-export const themeColorReservedAlertDarker = "#705500";
+export const themeColorReservedAlertDefault = "#7f00ff";
+export const themeColorReservedAlertLightest = "#f2e6ff";
+export const themeColorReservedAlertLighter = "#d9b3ff";
+export const themeColorReservedAlertDarker = "#4c0099";
 export const themeColorSyntaxBackground = "#232323";
 export const themeColorSyntaxValues = "#6bbe27";
 export const themeColorSyntaxElements = "#a7e5ff";
@@ -394,17 +394,17 @@ export const paletteBoldActionButtonSecondaryDefaultBackground =
   "rgba(0, 0, 0, 0)";
 export const paletteBoldActionButtonSecondaryDefaultText = "#ffffff";
 export const paletteBoldActionButtonSecondaryDefaultTextDecoration = "none";
-export const paletteBoldActionButtonSecondaryDefaultBorder = "#ffe500";
+export const paletteBoldActionButtonSecondaryDefaultBorder = "#7f00ff";
 export const paletteBoldActionButtonSecondaryHoverBackground =
   "rgba(0, 0, 0, 0)";
 export const paletteBoldActionButtonSecondaryHoverText = "#ffffff";
 export const paletteBoldActionButtonSecondaryHoverTextDecoration = "underline";
-export const paletteBoldActionButtonSecondaryHoverBorder = "#cdb300";
+export const paletteBoldActionButtonSecondaryHoverBorder = "#6600cc";
 export const paletteBoldActionButtonSecondaryActiveBackground =
   "rgba(0, 0, 0, 0)";
 export const paletteBoldActionButtonSecondaryActiveText = "#ffffff";
 export const paletteBoldActionButtonSecondaryActiveTextDecoration = "none";
-export const paletteBoldActionButtonSecondaryActiveBorder = "#cdb300";
+export const paletteBoldActionButtonSecondaryActiveBorder = "#6600cc";
 export const paletteBoldActionLinkDefaultColor = "#ffffff";
 export const paletteBoldActionLinkDefaultTextDecorationColor =
   "rgba(#ffffff, 0.8)";
@@ -486,18 +486,18 @@ export const paletteStrongActionButtonSecondaryDefaultBackground =
   "rgba(0, 0, 0, 0)";
 export const paletteStrongActionButtonSecondaryDefaultText = "#ffffff";
 export const paletteStrongActionButtonSecondaryDefaultTextDecoration = "none";
-export const paletteStrongActionButtonSecondaryDefaultBorder = "#ffe500";
+export const paletteStrongActionButtonSecondaryDefaultBorder = "#7f00ff";
 export const paletteStrongActionButtonSecondaryHoverBackground =
   "rgba(0, 0, 0, 0)";
 export const paletteStrongActionButtonSecondaryHoverText = "#ffffff";
 export const paletteStrongActionButtonSecondaryHoverTextDecoration =
   "underline";
-export const paletteStrongActionButtonSecondaryHoverBorder = "#cdb300";
+export const paletteStrongActionButtonSecondaryHoverBorder = "#6600cc";
 export const paletteStrongActionButtonSecondaryActiveBackground =
   "rgba(0, 0, 0, 0)";
 export const paletteStrongActionButtonSecondaryActiveText = "#ffffff";
 export const paletteStrongActionButtonSecondaryActiveTextDecoration = "none";
-export const paletteStrongActionButtonSecondaryActiveBorder = "#cdb300";
+export const paletteStrongActionButtonSecondaryActiveBorder = "#6600cc";
 export const paletteStrongActionLinkDefaultColor = "#ffffff";
 export const paletteStrongActionLinkDefaultTextDecorationColor =
   "rgba(#ffffff, 0.8)";
@@ -579,17 +579,17 @@ export const paletteDarkActionButtonSecondaryDefaultBackground =
   "rgba(0, 0, 0, 0)";
 export const paletteDarkActionButtonSecondaryDefaultText = "#ffffff";
 export const paletteDarkActionButtonSecondaryDefaultTextDecoration = "none";
-export const paletteDarkActionButtonSecondaryDefaultBorder = "#ffe500";
+export const paletteDarkActionButtonSecondaryDefaultBorder = "#7f00ff";
 export const paletteDarkActionButtonSecondaryHoverBackground =
   "rgba(0, 0, 0, 0)";
 export const paletteDarkActionButtonSecondaryHoverText = "#ffffff";
 export const paletteDarkActionButtonSecondaryHoverTextDecoration = "underline";
-export const paletteDarkActionButtonSecondaryHoverBorder = "#cdb300";
+export const paletteDarkActionButtonSecondaryHoverBorder = "#6600cc";
 export const paletteDarkActionButtonSecondaryActiveBackground =
   "rgba(0, 0, 0, 0)";
 export const paletteDarkActionButtonSecondaryActiveText = "#ffffff";
 export const paletteDarkActionButtonSecondaryActiveTextDecoration = "none";
-export const paletteDarkActionButtonSecondaryActiveBorder = "#cdb300";
+export const paletteDarkActionButtonSecondaryActiveBorder = "#6600cc";
 export const paletteDarkActionLinkDefaultColor = "#ffffff";
 export const paletteDarkActionLinkDefaultTextDecorationColor =
   "rgba(#ffffff, 0.8)";

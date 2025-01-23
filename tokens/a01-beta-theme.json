@@ -11,7 +11,7 @@
           "type": "color"
         },
         "third": {
-          "value": "{color.starYellow.500}",
+          "value": "{custom.health.color.eletricPurple.500}",
           "type": "color"
         },
         "fourth": {
@@ -25,7 +25,7 @@
           "type": "color"
         },
         "tint": {
-          "value": "{color.starYellow.25}",
+          "value": "{custom.health.color.eletricPurple.25}",
           "type": "color"
         },
         "alt": {
@@ -86,7 +86,7 @@
                 "type": "color"
               },
               "text": {
-                "value": "{color.starYellow.700}",
+                "value": "{custom.health.color.eletricPurple.700}",
                 "type": "color"
               }
             },
@@ -96,7 +96,7 @@
                 "type": "color"
               },
               "text": {
-                "value": "{color.starYellow.700}",
+                "value": "{custom.health.color.eletricPurple.700}",
                 "type": "color"
               }
             },
@@ -106,7 +106,7 @@
                 "type": "color"
               },
               "text": {
-                "value": "{color.starYellow.700}",
+                "value": "{custom.health.color.eletricPurple.700}",
                 "type": "color"
               }
             }
@@ -302,19 +302,19 @@
         },
         "alert": {
           "default": {
-            "value": "{color.starYellow.500}",
+            "value": "{custom.health.color.eletricPurple.500}",
             "type": "color"
           },
           "lightest": {
-            "value": "{color.starYellow.25}",
+            "value": "{custom.health.color.eletricPurple.25}",
             "type": "color"
           },
           "lighter": {
-            "value": "{color.starYellow.50}",
+            "value": "{custom.health.color.eletricPurple.50}",
             "type": "color"
           },
           "darker": {
-            "value": "{color.starYellow.800}",
+            "value": "{custom.health.color.eletricPurple.800}",
             "type": "color"
           }
         }
