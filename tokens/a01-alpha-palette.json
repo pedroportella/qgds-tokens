@@ -1260,7 +1260,7 @@
         "type": "color"
       },
       "subtle": {
-        "value": "{color.stellarExplorerGrey.500}",
+        "value": "{custom.health.color.victoriaPurple.500}",
         "type": "color"
       },
       "accent": {
@@ -1610,11 +1610,11 @@
     },
     "strong": {
       "background": {
-        "value": "{color.stellarExplorerGrey.500}",
+        "value": "{custom.health.color.victoriaPurple.500}",
         "type": "color"
       },
       "shade": {
-        "value": "{color.stellarExplorerGrey.600}",
+        "value": "{custom.health.color.victoriaPurple.600}",
         "type": "color"
       },
       "focus": {
@@ -1662,7 +1662,7 @@
         "type": "color"
       },
       "subtle": {
-        "value": "{color.stellarExplorerGrey.500}",
+        "value": "{custom.health.color.victoriaPurple.500}",
         "type": "color"
       },
       "accent": {
