@@ -59,7 +59,7 @@
       },
       "accent": {
         "default": {
-          "value": "{custom.health.color.eletricPurple.500}",
+          "value": "{custom.health.color.malachiteGreen.500}",
           "type": "color"
         },
         "onAccent": {

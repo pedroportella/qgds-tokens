@@ -70,7 +70,7 @@
     "type": "other"
   },
   {
-    "name": "a01-alpha-palette",
+    "name": "health-alpha-palette",
     "selectedTokenSets": {
       "primitive": "source",
       "button": "source",
@@ -78,14 +78,14 @@
       "qgds": "source",
       "typography": "source",
       "custom-health": "source",
-      "a01-alpha-theme": "enabled",
-      "a01-alpha-palette": "enabled"
+      "health-alpha-theme": "enabled",
+      "health-alpha-palette": "enabled"
     },
     "group": "brand",
     "type": "other"
   },
   {
-    "name": "a01-beta-palette",
+    "name": "health-beta-palette",
     "selectedTokenSets": {
       "primitive": "source",
       "button": "source",
@@ -93,8 +93,8 @@
       "qgds": "source",
       "typography": "source",
       "custom-health": "source",
-      "a01-beta-theme": "enabled",
-      "a01-beta-palette": "enabled"
+      "health-beta-theme": "enabled",
+      "health-beta-palette": "enabled"
     },
     "group": "brand",
     "type": "other"
