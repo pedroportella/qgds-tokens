@@ -171,7 +171,7 @@
   --palette-bright-line: #d0d0d2;
   --palette-bright-muted: #f5f5f5;
   --palette-bright-subtle: #e7e8e8;
-  --palette-bright-accent-default: #00db57;
+  --palette-bright-accent-default: #40e0d0;
   --palette-bright-accent-on-accent: #006b18;
   --palette-bright-typography-site-title-default: #232323;
   --palette-bright-typography-site-title-variant: #444444;
@@ -182,7 +182,7 @@
   --palette-bright-action-nav-main-default-background: #f5f5f5;
   --palette-bright-action-nav-main-default-text: #444444;
   --palette-bright-action-nav-main-default-text-decoration: none;
-  --palette-bright-action-nav-main-default-accent: #00db57;
+  --palette-bright-action-nav-main-default-accent: #40e0d0;
   --palette-bright-action-nav-main-hover-background: #e7e8e8;
   --palette-bright-action-nav-main-hover-text: #00993d;
   --palette-bright-action-nav-main-hover-text-decoration: underline;

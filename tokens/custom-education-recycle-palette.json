@@ -59,7 +59,7 @@
       },
       "accent": {
         "default": {
-          "value": "{custom.education.color.malachiteGreen.500}",
+          "value": "{custom.education.color.mySpecialColor}",
           "type": "color"
         },
         "onAccent": {
