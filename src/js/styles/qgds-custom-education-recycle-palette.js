@@ -2,7 +2,7 @@
  * Do not edit directly, this file was auto-generated.
  */
 
-export const customEducationColorMySpecialColor = "#40e0d0";
+export const customEducationColorMySpecialColor = "#ffff00";
 export const customEducationColorEletricPurple25 = "#f2e6ff";
 export const customEducationColorEletricPurple50 = "#d9b3ff";
 export const customEducationColorEletricPurple100 = "#bf80ff";
@@ -170,7 +170,7 @@ export const paletteBrightFence = "#00db57";
 export const paletteBrightLine = "#d0d0d2";
 export const paletteBrightMuted = "#f5f5f5";
 export const paletteBrightSubtle = "#e7e8e8";
-export const paletteBrightAccentDefault = "#40e0d0";
+export const paletteBrightAccentDefault = "#ffff00";
 export const paletteBrightAccentOnAccent = "#006b18";
 export const paletteBrightTypographySiteTitleDefault = "#232323";
 export const paletteBrightTypographySiteTitleVariant = "#444444";
@@ -181,7 +181,7 @@ export const paletteBrightTypographyBodyVariant = "#444444";
 export const paletteBrightActionNavMainDefaultBackground = "#f5f5f5";
 export const paletteBrightActionNavMainDefaultText = "#444444";
 export const paletteBrightActionNavMainDefaultTextDecoration = "none";
-export const paletteBrightActionNavMainDefaultAccent = "#40e0d0";
+export const paletteBrightActionNavMainDefaultAccent = "#ffff00";
 export const paletteBrightActionNavMainHoverBackground = "#e7e8e8";
 export const paletteBrightActionNavMainHoverText = "#00993d";
 export const paletteBrightActionNavMainHoverTextDecoration = "underline";

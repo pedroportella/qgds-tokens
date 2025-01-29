@@ -4,7 +4,7 @@
   Do not edit directly, this file was auto-generated.
 -->
 <resources>
-  <color name="customEducationColorMySpecialColor">#40e0d0</color>
+  <color name="customEducationColorMySpecialColor">#ffff00</color>
   <color name="customEducationColorEletricPurple25">#f2e6ff</color>
   <color name="customEducationColorEletricPurple50">#d9b3ff</color>
   <color name="customEducationColorEletricPurple100">#bf80ff</color>
@@ -172,7 +172,7 @@
   <color name="paletteBrightLine">#d0d0d2</color>
   <color name="paletteBrightMuted">#f5f5f5</color>
   <color name="paletteBrightSubtle">#e7e8e8</color>
-  <color name="paletteBrightAccentDefault">#40e0d0</color>
+  <color name="paletteBrightAccentDefault">#ffff00</color>
   <color name="paletteBrightAccentOnAccent">#006b18</color>
   <color name="paletteBrightTypographySiteTitleDefault">#232323</color>
   <color name="paletteBrightTypographySiteTitleVariant">#444444</color>
@@ -183,7 +183,7 @@
   <color name="paletteBrightActionNavMainDefaultBackground">#f5f5f5</color>
   <color name="paletteBrightActionNavMainDefaultText">#444444</color>
   <string name="paletteBrightActionNavMainDefaultTextDecoration">none</string>
-  <string name="paletteBrightActionNavMainDefaultAccent">#40e0d0</string>
+  <string name="paletteBrightActionNavMainDefaultAccent">#ffff00</string>
   <color name="paletteBrightActionNavMainHoverBackground">#e7e8e8</color>
   <color name="paletteBrightActionNavMainHoverText">#00993d</color>
   <string name="paletteBrightActionNavMainHoverTextDecoration">underline</string>

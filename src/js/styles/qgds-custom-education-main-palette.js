@@ -2,7 +2,7 @@
  * Do not edit directly, this file was auto-generated.
  */
 
-export const customEducationColorMySpecialColor = "#40e0d0";
+export const customEducationColorMySpecialColor = "#ffff00";
 export const customEducationColorEletricPurple25 = "#f2e6ff";
 export const customEducationColorEletricPurple50 = "#d9b3ff";
 export const customEducationColorEletricPurple100 = "#bf80ff";
