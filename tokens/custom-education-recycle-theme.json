@@ -11,11 +11,11 @@
           "type": "color"
         },
         "third": {
-          "value": "rgba({custom.education.color.mySpecialColor}, 1)",
+          "value": "{color.broccoliParadiseGreen.500}",
           "type": "color"
         },
         "fourth": {
-          "value": "{color.liliacViolet.500}",
+          "value": "rgba({custom.education.color.mySpecialColor}, 1)",
           "type": "color"
         }
       },
