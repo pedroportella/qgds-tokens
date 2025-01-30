@@ -86,7 +86,7 @@
                 "type": "color"
               },
               "text": {
-                "value": "rgba({custom.education.color.mySpecialColor}, 1.2)",
+                "value": "{color.broccoliParadiseGreen.700}",
                 "type": "color"
               }
             },
@@ -96,7 +96,7 @@
                 "type": "color"
               },
               "text": {
-                "value": "rgba({custom.education.color.mySpecialColor}, 1.2)",
+                "value": "{color.broccoliParadiseGreen.700}",
                 "type": "color"
               }
             },
@@ -106,7 +106,7 @@
                 "type": "color"
               },
               "text": {
-                "value": "rgba({custom.education.color.mySpecialColor}, 1.2)",
+                "value": "{color.broccoliParadiseGreen.700}",
                 "type": "color"
               }
             }

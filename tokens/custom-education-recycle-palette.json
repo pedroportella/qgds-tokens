@@ -38,7 +38,7 @@
         "type": "color"
       },
       "divider": {
-        "value": "rgba({custom.education.color.mySpecialColor}, 1.2)",
+        "value": "{color.broccoliParadiseGreen.700}",
         "type": "color"
       },
       "fence": {
@@ -125,7 +125,7 @@
               "type": "color"
             },
             "text": {
-              "value": "rgba({custom.education.color.mySpecialColor}, 1.2)",
+              "value": "{color.broccoliParadiseGreen.700}",
               "type": "color"
             },
             "textDecoration": {
@@ -202,7 +202,7 @@
                 "type": "color"
               },
               "text": {
-                "value": "rgba({custom.education.color.mySpecialColor}, 1.2)",
+                "value": "{color.broccoliParadiseGreen.700}",
                 "type": "color"
               },
               "textDecoration": {
@@ -220,7 +220,7 @@
                 "type": "color"
               },
               "text": {
-                "value": "rgba({custom.education.color.mySpecialColor}, 1.2)",
+                "value": "{color.broccoliParadiseGreen.700}",
                 "type": "color"
               },
               "textDecoration": {
@@ -238,7 +238,7 @@
                 "type": "color"
               },
               "text": {
-                "value": "rgba({custom.education.color.mySpecialColor}, 1.2)",
+                "value": "{color.broccoliParadiseGreen.700}",
                 "type": "color"
               },
               "textDecoration": {
@@ -255,7 +255,7 @@
         "link": {
           "default": {
             "color": {
-              "value": "rgba({custom.education.color.mySpecialColor}, 1.2)",
+              "value": "{color.broccoliParadiseGreen.700}",
               "type": "color"
             },
             "textDecorationColor": {
@@ -349,7 +349,7 @@
               "type": "color"
             },
             "text": {
-              "value": "rgba({custom.education.color.mySpecialColor}, 1.2)",
+              "value": "{color.broccoliParadiseGreen.700}",
               "type": "color"
             },
             "border": {
@@ -363,7 +363,7 @@
               "type": "color"
             },
             "text": {
-              "value": "rgba({custom.education.color.mySpecialColor}, 1.2)",
+              "value": "{color.broccoliParadiseGreen.700}",
               "type": "color"
             },
             "border": {
@@ -440,7 +440,7 @@
         "type": "color"
       },
       "divider": {
-        "value": "rgba({custom.education.color.mySpecialColor}, 1.2)",
+        "value": "{color.broccoliParadiseGreen.700}",
         "type": "color"
       },
       "fence": {
@@ -527,7 +527,7 @@
               "type": "color"
             },
             "text": {
-              "value": "rgba({custom.education.color.mySpecialColor}, 1.2)",
+              "value": "{color.broccoliParadiseGreen.700}",
               "type": "color"
             },
             "textDecoration": {
@@ -604,7 +604,7 @@
                 "type": "color"
               },
               "text": {
-                "value": "rgba({custom.education.color.mySpecialColor}, 1.2)",
+                "value": "{color.broccoliParadiseGreen.700}",
                 "type": "color"
               },
               "textDecoration": {
@@ -622,7 +622,7 @@
                 "type": "color"
               },
               "text": {
-                "value": "rgba({custom.education.color.mySpecialColor}, 1.2)",
+                "value": "{color.broccoliParadiseGreen.700}",
                 "type": "color"
               },
               "textDecoration": {
@@ -640,7 +640,7 @@
                 "type": "color"
               },
               "text": {
-                "value": "rgba({custom.education.color.mySpecialColor}, 1.2)",
+                "value": "{color.broccoliParadiseGreen.700}",
                 "type": "color"
               },
               "textDecoration": {
@@ -657,7 +657,7 @@
         "link": {
           "default": {
             "color": {
-              "value": "rgba({custom.education.color.mySpecialColor}, 1.2)",
+              "value": "{color.broccoliParadiseGreen.700}",
               "type": "color"
             },
             "textDecorationColor": {
@@ -751,7 +751,7 @@
               "type": "color"
             },
             "text": {
-              "value": "rgba({custom.education.color.mySpecialColor}, 1.2)",
+              "value": "{color.broccoliParadiseGreen.700}",
               "type": "color"
             },
             "border": {
@@ -765,7 +765,7 @@
               "type": "color"
             },
             "text": {
-              "value": "rgba({custom.education.color.mySpecialColor}, 1.2)",
+              "value": "{color.broccoliParadiseGreen.700}",
               "type": "color"
             },
             "border": {
@@ -842,7 +842,7 @@
         "type": "color"
       },
       "divider": {
-        "value": "rgba({custom.education.color.mySpecialColor}, 1.2)",
+        "value": "{color.broccoliParadiseGreen.700}",
         "type": "color"
       },
       "fence": {
@@ -929,7 +929,7 @@
               "type": "color"
             },
             "text": {
-              "value": "rgba({custom.education.color.mySpecialColor}, 1.2)",
+              "value": "{color.broccoliParadiseGreen.700}",
               "type": "color"
             },
             "textDecoration": {
@@ -1006,7 +1006,7 @@
                 "type": "color"
               },
               "text": {
-                "value": "rgba({custom.education.color.mySpecialColor}, 1.2)",
+                "value": "{color.broccoliParadiseGreen.700}",
                 "type": "color"
               },
               "textDecoration": {
@@ -1024,7 +1024,7 @@
                 "type": "color"
               },
               "text": {
-                "value": "rgba({custom.education.color.mySpecialColor}, 1.2)",
+                "value": "{color.broccoliParadiseGreen.700}",
                 "type": "color"
               },
               "textDecoration": {
@@ -1042,7 +1042,7 @@
                 "type": "color"
               },
               "text": {
-                "value": "rgba({custom.education.color.mySpecialColor}, 1.2)",
+                "value": "{color.broccoliParadiseGreen.700}",
                 "type": "color"
               },
               "textDecoration": {
@@ -1059,7 +1059,7 @@
         "link": {
           "default": {
             "color": {
-              "value": "rgba({custom.education.color.mySpecialColor}, 1.2)",
+              "value": "{color.broccoliParadiseGreen.700}",
               "type": "color"
             },
             "textDecorationColor": {
@@ -1153,7 +1153,7 @@
               "type": "color"
             },
             "text": {
-              "value": "rgba({custom.education.color.mySpecialColor}, 1.2)",
+              "value": "{color.broccoliParadiseGreen.700}",
               "type": "color"
             },
             "border": {
@@ -1167,7 +1167,7 @@
               "type": "color"
             },
             "text": {
-              "value": "rgba({custom.education.color.mySpecialColor}, 1.2)",
+              "value": "{color.broccoliParadiseGreen.700}",
               "type": "color"
             },
             "border": {
